@@ -1,3 +1,3 @@
 # chgk
 
-THere will be additions up to 22.04
+Не окончательная версия до 22.04
